@@ -1,6 +1,37 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a boilerplate project with all of the following dependencies:
+
+```
+"@testing-library/jest-dom"
+"@testing-library/react"
+"@types/node"
+"@types/react"
+"@types/react-dom"
+"autoprefixer"
+"eslint"
+"eslint-config-next"
+"eslint-plugin-sonarjs"
+"husky"
+"jest"
+"jest-environment-jsdom"
+"lint-staged"
+"postcss"
+"prettier"
+"tailwindcss"
+"ts-node"
+"tslib"
+"typescript"
+```
+
 ## Getting Started
+
+First, clone this repo
+```bash
+$ git clone git@github.com:reubert22/nextjs-template-ts.git
+# or
+$ git clone https://github.com/reubert22/nextjs-template-ts.git
+```
 
 First, run the development server:
 
